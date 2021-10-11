@@ -1,6 +1,6 @@
 ---
-laout: slide
+layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Nobody puts baby in the corner
 Use the left arrow to go back!
